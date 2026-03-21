@@ -547,3 +547,11 @@ ifconfig eth1
 На рисунку показано результат виконання команди ifconfig enp0s3, яка дозволяє переглянути параметри конкретного мережевого інтерфейсу.
 
 <img width="902" height="316" alt="image" src="https://github.com/user-attachments/assets/c3a7e8a5-4eed-495e-b934-19bd588f4c6a" />
+
+### Conclusion
+
+During this laboratory work, the main Linux commands used for working with files, processes, and network configuration were studied. In particular, the functionality of the cat command, its parameters, and its usage for creating, viewing, and processing files were analyzed.
+
+In addition, the dig and netstat commands were explored, which are used for network analysis and DNS diagnostics. Practical tasks were performed in the terminal, which helped to better understand how the Linux operating system works.
+
+As a result, theoretical knowledge was reinforced and practical skills in working with system commands, processes, and network tools were successfully developed.
